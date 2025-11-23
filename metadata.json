@@ -1,0 +1,5 @@
+{
+  "name": "Sentiment 360",
+  "description": "A Customer Sentiment Dashboard that transforms raw feedback into actionable insights using Gemini 2.0 Flash Thinking.",
+  "requestFramePermissions": []
+}
